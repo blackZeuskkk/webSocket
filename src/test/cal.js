@@ -6,4 +6,4 @@ let secWebSOcketAccept = crypto.createHash('sha1')
   .update(secWebSocketKey + magic)
   .digest('base64');
 
-  console.log(secWebSOcketAccept);
+  console.log(secWebSOcketAccept, 'secWebSOcketAccept');
