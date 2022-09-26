@@ -5,5 +5,3 @@ const secWebSocketKey = 'w4v7O6xFTi36lq3RNcgctw==';
 let secWebSOcketAccept = crypto.createHash('sha1')
   .update(secWebSocketKey + magic)
   .digest('base64');
-
-console.log(secWebSOcketAccept);
