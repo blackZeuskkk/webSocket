@@ -7,3 +7,6 @@ let secWebSOcketAccept = crypto.createHash('sha1')
   .digest('base64');
 
   console.log(secWebSOcketAccept, 'secWebSOcketAccept');
+  console.log(secWebSOcketAccept, 'secWebSOcketAccept');
+  console.log(secWebSOcketAccept, 'secWebSOcketAccept');
+  console.log(secWebSOcketAccept, 'secWebSOcketAccept');
