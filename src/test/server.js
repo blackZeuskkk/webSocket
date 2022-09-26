@@ -23,4 +23,6 @@ app.get('/', function (req, res) {
   res.sendfile(__dirname + '/index.html');
 });
 
+console.log('add console Test');
+
 app.listen(3000);
