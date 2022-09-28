@@ -1,0 +1,5 @@
+<serviceResponse xmlns="http://www.yale.edu/tp/cas">
+  <userAttributes>
+    <attributes name="LoginToken">ASDNFOISDFIOSFOFSADNONOIFSADOIN</attributes>
+  </userAttributes>
+</serviceResponse>
